@@ -1,0 +1,30 @@
+{
+  "team": [
+    {
+      "id": "u1",
+      "name": "Alex",
+      "meeting_hours": 14,
+      "assigned_tasks": [
+        {"task_id": "TASK-101", "title": "Database Optimization", "hours": 16, "skill": "Backend"},
+        {"task_id": "TASK-102", "title": "Write API Documentation", "hours": 12, "skill": "Docs"},
+        {"task_id": "TASK-103", "title": "Setup CI/CD Pipeline", "hours": 8, "skill": "DevOps"}
+      ]
+    },
+    {
+      "id": "u2",
+      "name": "Sam",
+      "meeting_hours": 4,
+      "assigned_tasks": [
+        {"task_id": "TASK-104", "title": "Fix Navbar Bug", "hours": 6, "skill": "Frontend"}
+      ]
+    },
+    {
+      "id": "u3",
+      "name": "Priya",
+      "meeting_hours": 8,
+      "assigned_tasks": [
+        {"task_id": "TASK-105", "title": "Unit Testing Modules", "hours": 20, "skill": "QA"}
+      ]
+    }
+  ]
+}
